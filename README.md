@@ -11,9 +11,23 @@ Facebook(https://web.facebook.com/tori.chowdhorany/)
 
 Medium(https://lipirani665.medium.com/)
 
-## Languages & Tools : 
+## Languages &  Frameworks Tools & : 
 
-HTML, CSS, JavaScript, Node js, Express js, MongoDB,Redux, React js, Bootstrap, Material UI, Github , Heroku, Netlify.
+* HTML
+* CSS
+* JavaScript
+* Node js
+* Express js
+* MongoDB
+* Redux
+* React js
+* React Router
+* Bootstrap
+* Material UI
+* Tailwind CSS
+* Github 
+* Heroku
+* Netlify.
 
 
 
