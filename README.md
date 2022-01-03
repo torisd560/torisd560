@@ -11,7 +11,7 @@ Facebook(https://web.facebook.com/tori.chowdhorany/)
 
 Medium(https://lipirani665.medium.com/)
 
-## Languages &  Frameworks Tools & : 
+## Languages &  Frameworks & Tools : 
 
 * HTML
 * CSS
